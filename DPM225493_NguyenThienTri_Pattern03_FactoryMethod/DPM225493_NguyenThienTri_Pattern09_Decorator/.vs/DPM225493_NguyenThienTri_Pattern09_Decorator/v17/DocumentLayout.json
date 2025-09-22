@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|solutionrelative:concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|solutionrelative:concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|d:\\dpm225493_nguyenthientri_pattern09_decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|solutionrelative:concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|solutionrelative:decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|solutionrelative:component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1E2513-79E9-4ED2-9667-B83719E60EA5}|DPM225493_NguyenThienTri_Pattern09_Decorator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcreteDecoratorB.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\ConcreteDecoratorB.cs",
+              "RelativeDocumentMoniker": "ConcreteDecoratorB.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\ConcreteDecoratorB.cs",
+              "RelativeToolTip": "ConcreteDecoratorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:39:41.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteDecoratorA.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\ConcreteDecoratorA.cs",
+              "RelativeDocumentMoniker": "ConcreteDecoratorA.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\ConcreteDecoratorA.cs",
+              "RelativeToolTip": "ConcreteDecoratorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:39:14.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\Decorator.cs",
+              "RelativeToolTip": "Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:38:21.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcreteComponent.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\ConcreteComponent.cs",
+              "RelativeDocumentMoniker": "ConcreteComponent.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\ConcreteComponent.cs",
+              "RelativeToolTip": "ConcreteComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:37:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Component.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\Component.cs",
+              "RelativeDocumentMoniker": "Component.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\Component.cs",
+              "RelativeToolTip": "Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:37:32.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern09_Decorator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:37:04.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

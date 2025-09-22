@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|d:\\dpm225493_nguyenthientri_pattern07_bridgereal\\dataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|solutionrelative:dataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|d:\\dpm225493_nguyenthientri_pattern07_bridgereal\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|solutionrelative:customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|d:\\dpm225493_nguyenthientri_pattern07_bridgereal\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|solutionrelative:customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|d:\\dpm225493_nguyenthientri_pattern07_bridgereal\\customersbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|solutionrelative:customersbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|d:\\dpm225493_nguyenthientri_pattern07_bridgereal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D310D336-316C-4874-889B-61E253172DB2}|DPM225493_NguyenThienTri_Pattern07_BridgeReal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersData.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\CustomersData.cs",
+              "RelativeDocumentMoniker": "CustomersData.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\CustomersData.cs",
+              "RelativeToolTip": "CustomersData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:26:31.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataObject.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\DataObject.cs",
+              "RelativeDocumentMoniker": "DataObject.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\DataObject.cs",
+              "RelativeToolTip": "DataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:26:05.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\Customers.cs",
+              "RelativeDocumentMoniker": "Customers.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\Customers.cs",
+              "RelativeToolTip": "Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:25:19.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersBase.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\CustomersBase.cs",
+              "RelativeDocumentMoniker": "CustomersBase.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\CustomersBase.cs",
+              "RelativeToolTip": "CustomersBase.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:24:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern07_BridgeReal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:24:00.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

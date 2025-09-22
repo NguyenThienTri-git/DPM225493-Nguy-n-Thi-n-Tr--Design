@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\summarypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:summarypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\resultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:resultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|d:\\dpm225493_nguyenthientri_pattern03_factorymethodreal\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\introductionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:introductionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\experiencepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:experiencepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\conclusionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:conclusionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\bibliographypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:bibliographypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16434315-BF0B-4733-846A-0CBF331402DB}|DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal.csproj|solutionrelative:skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IntroductionPage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\IntroductionPage.cs",
+              "RelativeDocumentMoniker": "IntroductionPage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\IntroductionPage.cs",
+              "RelativeToolTip": "IntroductionPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:38:06.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Page.cs",
+              "RelativeDocumentMoniker": "Page.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Page.cs",
+              "RelativeToolTip": "Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:36:15.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:30:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Report.cs",
+              "RelativeDocumentMoniker": "Report.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Report.cs",
+              "RelativeToolTip": "Report.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:47:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultsPage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\ResultsPage.cs",
+              "RelativeDocumentMoniker": "ResultsPage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\ResultsPage.cs",
+              "RelativeToolTip": "ResultsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:38:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Resume.cs",
+              "RelativeDocumentMoniker": "Resume.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Resume.cs",
+              "RelativeToolTip": "Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:43:49.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SummaryPage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\SummaryPage.cs",
+              "RelativeDocumentMoniker": "SummaryPage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\SummaryPage.cs",
+              "RelativeToolTip": "SummaryPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:39:09.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExperiencePage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\ExperiencePage.cs",
+              "RelativeDocumentMoniker": "ExperiencePage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\ExperiencePage.cs",
+              "RelativeToolTip": "ExperiencePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:37:38.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EducationPage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\EducationPage.cs",
+              "RelativeDocumentMoniker": "EducationPage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\EducationPage.cs",
+              "RelativeToolTip": "EducationPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:37:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Document.cs",
+              "RelativeDocumentMoniker": "Document.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\Document.cs",
+              "RelativeToolTip": "Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:35:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConclusionPage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\ConclusionPage.cs",
+              "RelativeDocumentMoniker": "ConclusionPage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\ConclusionPage.cs",
+              "RelativeToolTip": "ConclusionPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:38:46.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BibliographyPage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\BibliographyPage.cs",
+              "RelativeDocumentMoniker": "BibliographyPage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\BibliographyPage.cs",
+              "RelativeToolTip": "BibliographyPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:39:22.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SkillsPage.cs",
+              "DocumentMoniker": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\SkillsPage.cs",
+              "RelativeDocumentMoniker": "SkillsPage.cs",
+              "ToolTip": "D:\\DPM225493_NguyenThienTri_Pattern03_FactoryMethodReal\\SkillsPage.cs",
+              "RelativeToolTip": "SkillsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:36:44.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|z:\\dpm225493_nguyenthientri_pattern02_builderreal\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|z:\\dpm225493_nguyenthientri_pattern02_builderreal\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|solutionrelative:carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|z:\\dpm225493_nguyenthientri_pattern02_builderreal\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|z:\\dpm225493_nguyenthientri_pattern02_builderreal\\planebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|solutionrelative:planebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|z:\\dpm225493_nguyenthientri_pattern02_builderreal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|z:\\dpm225493_nguyenthientri_pattern02_builderreal\\vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|solutionrelative:vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|z:\\dpm225493_nguyenthientri_pattern02_builderreal\\motobikebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B741E14D-05A3-41E8-AE70-7EF07C9295D6}|DPM225493_NguyenThienTri_Pattern02_BuilderReal.csproj|solutionrelative:motobikebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:41:51.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaneBuilder.cs",
+              "DocumentMoniker": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\PlaneBuilder.cs",
+              "RelativeDocumentMoniker": "PlaneBuilder.cs",
+              "ToolTip": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\PlaneBuilder.cs",
+              "RelativeToolTip": "PlaneBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:38:10.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "CarBuilder.cs",
+              "ToolTip": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\CarBuilder.cs",
+              "RelativeToolTip": "CarBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:34:07.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotoBikeBuilder.cs",
+              "DocumentMoniker": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\MotoBikeBuilder.cs",
+              "RelativeDocumentMoniker": "MotoBikeBuilder.cs",
+              "ToolTip": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\MotoBikeBuilder.cs",
+              "RelativeToolTip": "MotoBikeBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:24:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:16:13.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleBuilder.cs",
+              "DocumentMoniker": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\VehicleBuilder.cs",
+              "RelativeDocumentMoniker": "VehicleBuilder.cs",
+              "ToolTip": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\VehicleBuilder.cs",
+              "RelativeToolTip": "VehicleBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:15:59.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "Z:\\DPM225493_NguyenThienTri_Pattern02_BuilderReal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:02:44.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
